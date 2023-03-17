@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: '1WooCommerce'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1BB715DD45BF4F3C84DD8CA9BCA2E315 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BCC607D2D3634C179ADB621D8789437E }}
           package: .
